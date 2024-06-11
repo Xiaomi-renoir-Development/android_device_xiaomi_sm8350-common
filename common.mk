@@ -367,6 +367,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     nfc_nci.nqx.default.hw \
     vendor.nxp.hardware.nfc@2.0-service \
+    android.hardware.nfc@1.2-service \
     android.hardware.secure_element@1.0.vendor \
     android.hardware.secure_element@1.1.vendor \
     android.hardware.secure_element@1.2.vendor
